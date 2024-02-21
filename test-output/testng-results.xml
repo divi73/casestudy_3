@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-18T12:41:42 IST" name="Default suite" finished-at="2023-12-18T12:41:47 IST" duration-ms="4331">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T12:41:42 IST" name="Default test" finished-at="2023-12-18T12:41:47 IST" duration-ms="4331">
+      <class name="casestudy_2.GettingResource">
+        <test-method signature="gettodos()[pri:1, instance:casestudy_2.GettingResource@7bd4937b]" started-at="2023-12-18T12:41:43 IST" name="gettodos" finished-at="2023-12-18T12:41:45 IST" duration-ms="2350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettodos -->
+        <test-method signature="singleUser()[pri:2, instance:casestudy_2.GettingResource@7bd4937b]" started-at="2023-12-18T12:41:45 IST" name="singleUser" finished-at="2023-12-18T12:41:46 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUser -->
+        <test-method signature="createUser()[pri:3, instance:casestudy_2.GettingResource@7bd4937b]" started-at="2023-12-18T12:41:46 IST" name="createUser" finished-at="2023-12-18T12:41:47 IST" duration-ms="1184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- casestudy_2.GettingResource -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
